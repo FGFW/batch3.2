@@ -1,0 +1,27 @@
+Get-Update=Call Gets.bat "update" "$*"
+Get-Tool=Call Gets.bat "tool" "$*"
+Get-Example=Call Gets.bat "example" "$*"
+Get-Soft=Call Gets.bat "soft" "$*"
+
+Find-Tool=Call Finds.bat "tool" "$*"
+Find-Example=Call Finds.bat "example" "$*"
+Find-Soft=Call Finds.bat "soft" "$*"
+
+Del-Tool=Call Dels.bat "tool" "$*"
+Del-Example=Call Dels.bat "example" "$*"
+Del-Soft=Call Dels.bat "soft" "$*"
+
+GU=Call Gets.bat "update" "$*"
+GT=Call Gets.bat "tool" "$*"
+GE=Call Gets.bat "example" "$*"
+GS=Call Gets.bat "soft" "$*"
+
+FT=Call Finds.bat "tool" "$*"
+FE=Call Finds.bat "example" "$*"
+FS=Call Finds.bat "soft" "$*"
+
+DT=Call Dels.bat "tool" "$*"
+DE=Call Dels.bat "example" "$*"
+DS=Call Dels.bat "soft" "$*"
+
+Version=Echo;&Echo Batch-CN [版本 3.2]&Echo 更新时间:2014-11-15

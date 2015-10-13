@@ -1,0 +1,586 @@
+[.rar 5.3.0 返回表达式的结果 61560Bytes 表达式计算
+_call N/A 调用dll中的api 28407Bytes API调用 DLL调用
+7z 15.05 7z文件压缩解压工具 261632Bytes 压缩解压 7z
+7z64 15.05 7z文件压缩解压工具(64位) 444416Bytes 压缩解压 7z
+ab 2.3 超文本传输协议(HTTP)性能测试工具(压力测试) 73792Bytes 网页工具 性能测试 POST
+accesschk 5.2 获取系统指定位置访问控制列表 380608Bytes 系统管理 权限设置 文件目录 注册表 进程 服务 
+adb.rar 1.0.31 安卓调试器 414623Bytes 调试工具 安卓
+adrestore 1.1 快速还原删除的AD对象 150328Bytes 文件恢复 活动目录
+agrep 3.37 支持正则表达式的文本搜索工具 147456Bytes 文本处理 字符串搜索 正则表达式
+AIO 1.0 系统辅助工具（好吧，其实是黑客工具） 394240Bytes 系统辅助 账户管理 进程操作
+amos 1.1 让命令行支持鼠标操作 2048Bytes 控制台扩展 鼠标
+ansi2knr N/A ANSI转换为KNR编码 5632Bytes 编码转换 ANSI KNR
+ansicon.rar 1.53 根据控制字符打印彩色字符 21886Bytes 控制台扩展 彩显
+APM 1.5 命令行电源管理 8192Bytes 系统辅助 电源管理
+Arc 0.60 高压缩比的压缩工具 2752000Bytes 压缩解压 ARC
+aria2c 1.18.10 项目名为aria2，多线程下载工具 4286976Bytes 下载工具
+aria2c64 1.18.10 项目名为aria2，多线程下载工具(64位) 4386816Bytes 下载工具
+ascmap.rar N/A 获取0~255的单字节字符表 1125Bytes 特殊字符
+att 0.41 远程设置和清除文件的属性 86016Bytes 文件操作 属性
+attribnt 0.72 设置和清除文件的属性 90112Bytes 文件操作 属性
+AutoHotkey 1.1.19.3 AHK脚本宿主 913408Bytes 解释器 编程工具 AHK
+Autologon 3.01 登录过程中跳过欢迎界面 148856Bytes 账户管理 自动登陆
+awka.rar 0.7.5 把awk脚本转换成c源码 188169Bytes 语言转换 C Awk
+badcopy 2.0.0.716 从不良的存储介质中复制文件 53248Bytes 文件操作 数据恢复
+BalloonTip N/A 托盘提示 1305Bytes 控制台扩展 气泡
+Base64 1.00 Base64编码、解码工具 36352Bytes 编码转换 Base64
+basename.rar 5.3.0 返回一个基本的文件名 53211Bytes 字符串操作
+bash.rar 3.1.17 bash命令行外壳 604377Bytes 解释器 编程工具 Shell
+bc 1.06 高精度计算 32782Bytes 表达式计算 高精度
+BeeNotice N/A 在屏幕上置顶显示文字 197632Bytes 控制台扩展 置顶 屏幕 文字
+BeePhoto N/A 在屏幕上置顶显示图片 198656Bytes 控制台扩展 置顶 屏幕 文字 图片
+BeeTextDraw N/A 在屏幕上置顶显示艺术字 199680Bytes 控制台扩展 置顶 屏幕 文字 艺术字
+BeeTextOut N/A 在屏幕上显示文字 193024Bytes 控制台扩展 屏幕 文字
+Bin 1.5 清空回收站的命令行工具 20992Bytes 系统管理 回收站
+bintohex N/A 二进制文件转十六进制码 48870Bytes 编码转换 bin hex
+bison 1.28 语法分析器生成器 82432Bytes 编程工具
+bkren N/A 用正则表达式重命名文件 49152Bytes 文件操作
+blat.rar 3.2.2 命令行发送邮件 111830Bytes 邮箱 
+BlueStarHide.rar N/A 在进程列表中隐藏进程 44269Bytes 进程操作
+bmp N/A 在窗口中显示bmp图片 3072Bytes 控制台扩展
+bunzip2 1.0.1 bz2文件解压缩工具 75776Bytes 文件打包
+busybox 1.23.0 集成了UNIX下常用的一些命令(非常强大的命令集合) 661504Bytes 
+bwfr 2.4.11 支持正则表达式的文本替换工具 219136Bytes 多语言 匹配
+bzip2 1.0.6 bz2文件压缩工具 31232Bytes 文件打包
+bzip2recover 1.0.6 修复损坏的bz2文件 5632Bytes 文件打包
+cal 1.5.1.1 打印指定日历 19456Bytes 年月日 日期 万年历
+Calendar N/A 显示年历、月历工具 83456Bytes 万年历
+CAPI 1.1 批处理调用系统API 5648Bytes API调用 DLL调用
+CAPI.rar 1.2 批处理调用系统API 5174Bytes API调用 DLL调用
+cat 5.97 显示或者把多个文本文件连接起来 16384Bytes 显示文件 合并 创建
+Cax 1.7.27 系统综合类工具 102400Bytes 服务 运行 结束 匹配 屏幕 输出
+ccal 2.5.3 打印指定月份日历(包括农历) 262144Bytes 农历 万年历 日历
+CCase 2.7 将一串英文的字符转变大小写 43928Bytes 大小写转换
+cdl N/A 简易命令行下载工具 1552Bytes 文件下载
+CDlg 1.0 弹出通用对话框(打开,保存,浏览文件夹),并输出路径 158335Bytes 
+cecho 2.0 命令行彩显 26112Bytes 命令行扩展
+CertMgr N/A 证书管理器工具 70992Bytes 管理证书 证书信任列表(CTL) 证书吊销列表(CRL)
+CertMgr64 N/A 证书管理器工具(64位) 77136Bytes 管理证书 证书信任列表(CTL) 证书吊销列表(CRL)
+Cext 1.0 方便命令行输出处理 200751Bytes 移动 绘制 方框 删除某一行
+CFile.rar N/A 输出文本指定行 5758Bytes 控制台扩展
+CFont 0.1 设置控制台字体大小 2336Bytes 控制台扩展
+CHANGE N/A 文本修改工具 121190Bytes 文本处理
+chgrp 3.16 修改文件的访问控制权限 24064Bytes 文件操作
+chmod 3.16 修改文件的访问控制权限 22528Bytes 文件操作
+choice 5.2.3790 实现不用回车的选择 41472Bytes 控制台扩展
+chown 3.16 修改文件的访问控制权限 23040Bytes 文件操作
+Chr N/A ASCII码转换 532566Bytes 编码转换
+Churrasco N/A 巴西烤肉非免杀不解释 62976Bytes 
+Cico 1.0 设置命令行的窗口图标 200751Bytes 控制台扩展 窗口操作
+CIdo 4.0 对命令行窗口进行特殊操作 208946Bytes 控制台扩展 窗口操作
+Cimt 1.0 模拟鼠标、键盘操作 200751Bytes 控制台扩展 键盘
+cixo 1.0 类似Choice,但支持特殊按键与毫秒级判断 7680Bytes 控制台扩展 键盘
+CKey 2.0 类似Choice,但支持特殊及功能键 172082Bytes 控制台扩展 键盘
+CKey 2.1b 类似Choice,但支持特殊及功能键 172083Bytes 控制台扩展 键盘
+cksum 2.1 检测文件是否被改动 20992Bytes 文件操作 修改
+ClearLogs N/A 清理系统日志 29184Bytes 系统管理
+clip N/A 系统自带的剪贴板设置工具 26112Bytes 剪贴板操作
+Clipboard 1.0 设置剪贴板 131072Bytes 剪贴板操作
+ClipDump 1.1 显示剪贴板内容 6656Bytes 剪贴板操作
+Clockres 2.0 查看系统时钟间隔 151936Bytes 
+CmdMenuSel 1.4 在cmd窗口显示菜单效果 520192Bytes 控制台扩展
+cmdmp3 N/A mp3播放器(CLI) 28160Bytes 多媒体工具
+cmdmp3win N/A mp3播放器 28672Bytes 多媒体工具
+cmdow 1.4.3 窗口管理工具 31232Bytes 窗口管理
+CMDread_amd64.rar 2.11 增强CMD窗口的编辑操作(64位) 50298Bytes 控制台扩展
+CMDread_x86.rar 2.11 增强CMD窗口的编辑操作 31650Bytes 控制台扩展
+Cmos 2.0b 让命令行支持鼠标操作 3584Bytes 控制台扩展
+Cmos 3.1 让命令行支持鼠标操作 176178Bytes 控制台扩展
+cmp 2.7 比较两个文件 11264Bytes 文本处理
+ColorTest N/A 显示可用的颜色 61440Bytes 
+ColorX 2.7 增强的color命令 44960Bytes 控制台扩展 彩显
+Colr 2.0 更改窗口中任意位置的字符颜色,也可加下划线 172082Bytes 控制台扩展 彩显
+comm 5.97 比较两个已排序好的文件 15360Bytes 文本处理
+compare 0.7 可以用各种标准来比较字符串 81920Bytes 文本处理
+compress N/A 压缩文件 25597Bytes 压缩解压
+ConBuffer 1.0 输出特殊字符 65536Bytes 特殊字符
+ConCmd.rar 1.5 中文编码转换 167027Bytes 编码转换
+ConCursorSize 1.0 设置光标的高度 65536Bytes 控制台扩展 光标
+ConFillChar 1.0 填充指定字符 61440Bytes 控制台扩展
+ConFlushIn 1.0 清空输入流 61440Bytes 控制台扩展
+ConGetEvent 1.0 等待直到触发事件或超时 69632Bytes 控制台扩展 鼠标 键盘
+ConGetFile 0.5 使用对话框来选择文件 61440Bytes 控制台扩展 对话框
+ConGetText 1.1 使用对话框来获取标准输出 65536Bytes 控制台扩展
+ConGetTitle 1.0 获取控制台标题 61440Bytes 控制台扩展
+ConIn 1.0 从标准输入中读取一行 65536Bytes 控制台扩展
+connect 0.3 扫描可用端口 65536Bytes 控制台扩展
+ConOut 1.0 输出文本，自带特殊字符转义功能 65536Bytes 控制台扩展
+ConPeek 1.0 读取之后不清空标准输入 61440Bytes 控制台扩展
+conset 1.4 set命令的超级强化版本 151552Bytes 浮点 高精度 变量 颜色 光标 鼠标位置 前景色 背景色 数学计算 绘图
+ConSetAttr 1.0 设置文字及其背景颜色 65536Bytes 控制台扩展 彩显
+ConSetBuffer 1.0 设置缓冲区大小 65536Bytes 控制台扩展 窗口操作
+ConSetCursor 1.0 设置鼠标的绝对或相对位置 65536Bytes 控制台扩展 光标
+ConSetError 1.0 设置32位错误码 61440Bytes 控制台扩展
+ConSetEvent 1.0 输出控制台的属性 61440Bytes 控制台扩展
+ConSetWindow 1.0 设置窗口属性 65536Bytes 控制台扩展 窗口操作
+ConsExt 1.1 绘制字符界面,获取鼠标事件 200798Bytes 控制台扩展 鼠标 光标
+ConShowCursor 1.0 显示或隐藏光标 61440Bytes 控制台扩展 光标
+contest.rar N/A IT/XM/S3M/MTM/MOD/UMX播放器 36837Bytes 多媒体工具
+Contig 1.7 优化单个文件/创建连续的新文件 207960Bytes 系统管理 碎片整理
+convert.rar 6.8.6-7 图片编辑转换工具 1882170Bytes 格式转换
+copyimg N/A 复制图片到剪贴板，支持gif动画(GUI) 291840Bytes 系统管理 剪贴板操作
+copyimgc N/A 复制图片到剪贴板，支持gif动画(CLI) 292352Bytes 系统管理 剪贴板操作
+CopyToSystem 1.1 复制到系统文件夹 6656Bytes 文件操作
+Coreinfo 3.31 显示逻辑处理器与物理处理器之间的映射等 892088Bytes NUMA节点 插槽 缓存
+cp 3.16 拷贝文件或目录 73728Bytes 文件操作 目录操作 复制
+crypto 1.3.2.0330 用强加密算法加、解密指定文件集 455680Bytes 
+cryptRDP5 1.0.0.0 远程连接密码Encode工具 15872Bytes 
+CSet 1.0 简化版ConSet,支持跨进程变量读写和浮点运算等功能 14336Bytes 变量 进程 浮点运算
+CSet64 1.0 简化版ConSet,支持跨进程变量读写和浮点运算等功能(64位) 19968Bytes 变量 进程 浮点运算 64位
+csplit 2.1 拷贝指定的文本文件并将拷贝分成段 55296Bytes 文本处理 复制 分割
+CSty 0.1 修改,查看控制台窗口属性 45056Bytes 窗口操作 行 列 光标 隐藏 指定
+CTray 1.0 设置,更改托盘图标 172081Bytes 
+ctrl2cap.rar 2.0 将CapsLock键变为控制键(Ctrl) 38133Bytes 
+curl 7.37.0 命令行下载工具,网页相关 1737728Bytes 访问 cookie  proxy 模拟浏览器 批量 上传
+CurS 1.1 对命令行光标进行相关操作 40960Bytes 光标
+cut 5.97 从一行上移除部分内容,选择性显示 17920Bytes 
+CWnd N/A 窗口、句柄、进程操作 8419Bytes 禁用 隐藏 透明 移动 最小化 最大化
+dadi N/A 彩显工具解释器 68276Bytes 控制台扩展 彩显
+date 1.13 按格式显示系统时间 39424Bytes 时间 格式化
+DateX 2.7 date和time命令的增强版 90520Bytes 时间 格式化
+dc 1.2 任意精度的计算 19982Bytes 表达式计算 编程工具
+dd 3.16 用指定大小的块拷贝一个文件并同时进行指定的转换 40960Bytes 文本处理
+dehtml.rar 1.5 解析网页，提取文字 598411Bytes 网页工具
+devcon N/A 命令行设备管理器 55808Bytes 设备 查找 禁用 启用 刷新
+devcon64 N/A 命令行设备管理器(64位) 81920Bytes 64位 设备 查找 禁用 启用 刷新
+deveject 1.0 移除设备 45056Bytes 系统管理
+df 3.16 检查文件系统的磁盘空间占用情况 26112Bytes 系统管理
+Dialupass 3.06 读取ASDL拨号的用户名及密码 38400Bytes 网络相关
+diff 2.7 比较文本文件,它能比较单个文件或者目录内容 68096Bytes 文件操作
+diff3 2.7 比较三个文件 17920Bytes 文件操作
+dircolors 3.16 设置ls指令在显示目录或文件时所用的色彩 28160Bytes 
+dirname 1.13 把指定路径除了最后以外的部分写到标准输出 16896Bytes 
+disableX N/A 禁用CMD窗口的关闭按钮 1536Bytes 窗口操作
+diskext 1.1 显示卷磁盘映射 87424Bytes 
+dllcall 1.0.3.5 调用dll的api 4096Bytes API调用 DLL调用
+dmtracedump N/A 根据.trace文件生成函数调用图 61440Bytes 
+dnslu 980312H DNS查看工具 49152Bytes 网络相关
+do.rar N/A 对管道中的内容执行指定的命令 563Bytes 
+docprop 1.5 读取doc文件的属性 46080Bytes 文件操作
+doctotext.rar 4.0.1512 Word,Excel等文件转文本文件 1891138Bytes 格式转换  DOC,XLS,XLSB,PPT,RTF,ODF,OASIS,ODT,ODS,ODP,ODG,XML,OOXML,OpenXML,MSOOXML,DOCX,XLSX,PPTX,PAGES,NUMBERS, KEYNOTE,FODP, FODS, FODT,PDF,EML,HTML
+down N/A 极简的命令行下载工具 1504Bytes 下载工具
+download 1.11 支持http的文件下载工具 126072Bytes 下载工具
+DriveX 2.7 可以用来判断驱动器的类型 44960Bytes 
+du 1.5 显示磁盘使用情况 223424Bytes 
+du 3.16 统计目录(或文件)所占磁盘空间的大小 26112Bytes 系统管理
+DumpEDID 1.01 获取显示器的尺寸、生产日期等信息 9216Bytes 
+echo.rar 5.3.0 显示文字 54173Bytes 
+EchoX 2.7 echo增强版,支持彩显 48536Bytes 控制台扩展 彩显
+eecho 1.5.1.1 增强版echo(可设置文字颜色、位置...) 22528Bytes 控制台扩展 彩显
+efsdump 1.02 查看加密文件的信息 146232Bytes 
+egrep 2.4.2 支持正则表达式的文本搜索工具,基于grep 80412Bytes 文本处理 字符串搜索 正则表达式
+Eject N/A 安全删除盘符 120378Bytes 系统管理
+elsave 0.4 清除系统日志 14336Bytes 系统管理
+empty N/A 微软官方内存释放工具 9728Bytes 内存 释放 整理
+encode N/A 使用字符串加解密文件 3584Bytes 文本处理
+env.rar 5.3.0 打印当前用户的环境变量 53504Bytes 系统管理
+ErrorText.rar 1.1 显示错误码对应的文字说明 8267Bytes 
+es 1.3.4.686 文件搜索工具,很快,巨快,超快 44032Bytes 正则表达式 文件搜索
+EUDC 0.1 让CMD显示用户自定义字符 1680Bytes 
+event 1.1 等待直到触发事件或超时 73728Bytes 
+excel 1.0 命令行下读写excel 1138176Bytes excel
+Excel2Text N/A Excel转文本 87728Bytes 
+exiftool 9.98 支持对大量文件格式修改元数据 5433340Bytes 文件 标签 图片 音频
+exiv2.rar 0.25 修改图片信息 1388333Bytes 
+expand 2.1 将制表符转变为空白字符 15360Bytes 
+expr.rar 5.3.0 用于整数值计算,也可用于字符串操作 70328Bytes 表达式计算
+extractIcon N/A 文件图标提取工具 293001Bytes 
+f 2.2.3.0119 在文件中查找字符串，支持压缩包 205312Bytes 
+factor 1.13 找出一个或多个正整数的质因数 18432Bytes 表达式计算
+false.rar 5.3.0 退出码置为1 50883Bytes 
+fart 1.98 查找和替换文本，支持正则和替换文件名 69660Bytes 文本处理
+fastboot.rar N/A 安卓线刷工具 128240Bytes 
+FastCopy 2.11 快速复制 335872Bytes 系统辅助
+FastCopy64 2.11 快速复制(64位) 410624Bytes 系统辅助
+fciv 2.05 微软md5/sha1校验工具 84784Bytes HASH MD5 SHA1
+Feast N/A 恶作剧程序,让鼠标到处乱飞 2560Bytes 
+febootimail 5.2 命令行收发邮件 2733512Bytes 邮箱 邮件
+ffmpeg N-70520-g9d7e42e 视频、音频格式转换 29842432Bytes 多媒体工具 格式转换
+ffmpeg64 N-70520-g9d7e42e 视频、音频格式转换(64位) 32848384Bytes 多媒体工具 格式转换
+ffplay N-70520-g9d7e42e 视频、音频格式播放 29750784Bytes 多媒体工具
+ffplay64 N-70520-g9d7e42e 视频、音频格式播放(64位) 32759296Bytes 多媒体工具
+ffprobe N-70520-g9d7e42e 分析视频、音频格式 29765120Bytes 多媒体工具
+ffprobe64 N-70520-g9d7e42e 分析视频、音频格式(64位) 32778240Bytes 多媒体工具
+fgrep 2.4.2 在文件中搜索固定字符串 80412Bytes 文本处理 字符串搜索 正则表达式
+fi 0.13 dir的强化版本,可以列出更多信息 110592Bytes 文件流 大小 年龄 UAC
+file.rar 5.04 猜测文件的类型 777823Bytes 
+FileLocator.rar 6.5 搜索文件内容，支持正则，支持office文件、pdf文件等多种格式，支持压缩包 8654371Bytes 字符串搜索 正则表达式
+FileLocator64.rar 6.5 搜索文件内容，支持正则，支持office文件、pdf文件等多种格式，支持压缩包(64位) 10325263Bytes 字符串搜索  正则表达式
+FileRecycle N/A 将文件或目录移到回收站，或清空回收站 302592Bytes 文件 回收站 删除 恢复
+filewipe 2.2.4.0215 商用级文件擦除工具 622592Bytes 文件删除
+find 4.1 列出符合条件的文件 65536Bytes 天前 分钟 天内 分钟内 查找
+finddupe 1.23 查找重复文件 53248Bytes 重复 查找
+FindLinks 1.0 定位文件的硬链接 103216Bytes 
+FindPid 1.01 批处理进程监控工具 9216Bytes 进程操作
+FindUdisk 1.00 U盘检测 8192Bytes 
+FInfo 2.7 统计文件的基本信息等 95128Bytes 
+flex 2.5.4 词法分析器生成工具 146432Bytes 
+fmt 2.1 编排文本文件 18432Bytes 文本处理
+fold 5.97 限制文件列宽 15872Bytes 
+forfiles N/A 筛选一个文件(或一组文件)并对其执行一个命令 55808Bytes 
+Fping 2.05 快速的ping 131072Bytes 网络操作
+fr 2.1.6.1213 查找和替换 175104Bytes 文本处理
+fsplit N/A 分割文件 6144Bytes 文本处理 分割
+fsum 1.9.0.149 可递归处理子目录文件的MD5文件生成工具FSUM 394752Bytes MD5
+fu N/A 在进程列表中隐藏进程 98304Bytes 
+gawk 4.1.0 文本处理工具 223246Bytes 正则表达式 文本处理 替换 搜索 格式化
+gBatch N/A 控制台综合辅助工具 14336Bytes 鼠标 标题 颜色 延时 图片 蜂鸣
+gclip 1.0 从标准输出获取文本到剪贴板 8192Bytes 剪贴板操作
+gdb 7.9 GNU-Debugger-Windows实现版 4993536Bytes 调试工具
+GDI N/A 在命令行窗口中显示图片 368705Bytes 控制台扩展
+get N/A 极小的文件下载工具 820Bytes 下载工具
+gethex 0.1 BIN转HEX 3072Bytes 格式转换 Hex
+getmail.rar 1.33 命令行接收邮件 51976Bytes 邮箱 邮件
+geturls 1.0 从流文本中获取URL 65536Bytes 字符串处理
+gifdiff 1.87 比较两个GIF文件的外观 93144Bytes 图片处理
+gifdiff64 1.87 比较两个GIF文件的外观(64位) 107488Bytes 图片处理
+gifsicle 1.87 修改GIF文件的外观 233936Bytes 图片处理
+gifsicle64 1.87 修改GIF文件的外观(64位) 275400Bytes 图片处理
+Glass.rar 1.5.1.1 用热键操作窗口 13241Bytes 热键 快捷键 置顶 透明 隐藏 老板键
+gln.rar 5.3.0 创建快捷方式 76144Bytes 快捷方式
+gplay N/A 命令行播放音乐 4608Bytes 播放 音乐 后台
+grep 2.5.1 支持正则表达式的文本搜索工具 135680Bytes 文本处理 字符串搜索 正则表达式
+grep 2.9 支持正则表达式的文本搜索工具 809486Bytes 文本处理 字符串搜索 正则表达式
+gsar 1.10 文本处理工具 15360Bytes 文本处理
+gswin32c.rar 9.15 Ghostscript解释器 7394154Bytes 解释器
+gunzip 1.2.4 gz文件解压缩 49152Bytes 压缩解压 gz
+GVim.rar 7.3 vi编辑器的gui版本，支持命令行参数 6632131Bytes 
+gzip 1.5 gz文件压缩器 67598Bytes 压缩解压 gz
+handle 4.0 显示进程相关信息 536256Bytes PID 打开 文件
+HASH 2.1.2 批量获取文件的HASH信息 280576Bytes HASH 文件 筛选
+head 5.97 显示开头或结尾某个数量的文字区块 19456Bytes 文本处理
+hex 1.2 打印输入流的十六进制编码 69632Bytes 
+hex2dec 1.0 十六进制与十进制的相互转换 150328Bytes 
+HexTool 1.00 HEX编辑工具 66560Bytes 
+HIDECMD N/A 隐藏运行cmd 23552Bytes 
+hostid.rar 5.3.0 返回hostid 53404Bytes 
+hostname 5.3.0 返回hostname 23552Bytes 
+hstart 4.2 隐藏运行 110208Bytes 
+html2text.rar 1.3.2a html转文本 612379Bytes 格式转换
+htmldecode N/A 转换&#nnnn;字符 304640Bytes 
+HtoX32c 1.73 htm转txt,须加/IP参数 143360Bytes 格式转换
+iconv 1.1.4 文件编码格式转换 675854Bytes 编码转换
+id.rar 5.3.0 显示用户的ID,以及所属群组的ID 54687Bytes 
+id3 0.78 修改音频文件的信息 77824Bytes 音频 ID3 标签
+id3tool 1.2a 修改音频文件的信息 57344Bytes 音频 ID3 标签
+idle N/A 暂停直到有鼠标或键盘操作 203020Bytes 
+IDMan 6.12.21.2 支持命令行下载的图形工具 3532224Bytes 下载工具
+IfX 2.7 增强的if命令 37776Bytes 控制台扩展
+image 1.6 在命令行窗口中显示图片 262234Bytes 控制台扩展
+Img2Pdf.rar 1.0 jpg转pdf 485562Bytes 格式转换
+indent 2.2.9 格式化C源码 58880Bytes 文本处理
+inifile 1.6 ini文件处理工具 8704Bytes 文本处理
+install 3.16 安装或升级软件或备份数据 40960Bytes 
+instsrv N/A 安装和移除系统服务 32256Bytes 服务
+intergif 6.08 gif操作工具（合并/分解...） 73728Bytes 图片处理
+ipseccmd 1.5 置本地安全IP策略、屏蔽指定端口的命令行工具 71680Bytes 
+jhead 2.97 获取及修改照片exif信息 166912Bytes 整理
+join 5.97 将两个文件中，指定栏位内容相同的行连接起来 20992Bytes 
+JREN.rar 2.2 使用正则为文件和文件夹改名 10174Bytes 
+js.rar 2.0 js脚本控制台JSconsole 1045920Bytes 
+jscompile 1.0.1.0517 使用谷歌Closure-Compiler进行JavaScript批量编译 191488Bytes 
+junction 1.06 创建快捷方式 150392Bytes 
+jwhois 2.4.1 查询域名或IP注册信息 49152Bytes 
+Key 1.0 获取一个字符的输入 118784Bytes 
+keyhh N/A 搜索chm帮助文件 24576Bytes 
+KeyPrs 0.1 增强版choice,支持特殊字符 36864Bytes 
+ldd N/A 查看exe所依赖的dll 20480Bytes 
+ldd64 1.0 查看exe所依赖的dll(64位) 21504Bytes 
+ldmdump 1.03 转储LogicalDiskManager在磁盘中的数据库 154424Bytes 
+less 381 浏览文档内容 108544Bytes 正则 高亮
+lesskey 381 键绑定设置 11264Bytes 
+LineX 2.7 可以对屏幕的输出以及指定的文件进去筛选操作 51096Bytes 
+linkd N/A 为NTFS磁盘的目录创建链接 11264Bytes 
+Listdlls 3.1 列出所有当前加载的DLL及路径 520496Bytes 
+listdrive 2.0 列出磁盘信息 25088Bytes 
+livekd 5.31 使用Microsoft内核调试程序检查真实系统 559808Bytes 
+ln 3.16 为某一个文件在另外一个位置建立一个同步的链接 69632Bytes 
+locate.rar 3.1.10.5090 根据updtdb生成的数据库来搜索文件 194356Bytes 
+locate64.rar 3.1.10.5090 根据updtdb生成的数据库来搜索文件(64位) 186115Bytes 
+logname 1.9.4 显示用户名称 7680Bytes 
+logonsessions 1.21 列出系统中的活动登录会话 261496Bytes 
+LookLike N/A 过滤/获取相似内容 65536Bytes 
+ls 3.16 相当于dir强化版 57856Bytes 
+m4 1.4 预处理文件,扩展宏定义 83456Bytes 
+mach N/A 跨窗口读取 2048Bytes 
+madplay 0.15.2 MPEG音频解码器 137728Bytes 
+make 3.80 按条件决定是否重编译 168448Bytes 
+makedepend N/A 未知 32768Bytes 
+makemsg N/A 未知 6144Bytes 
+man 1.4h 显示联机手册条目 38912Bytes 
+Mapisend N/A 通过Outlook发送邮件 49152Bytes 
+math 2.34 命令行计算器 65536Bytes 表达式计算
+mawk 1.3.3 文本处理工具,号称最快的awk 156672Bytes 正则表达式 文本处理 替换 搜索 格式化
+mbtPdfAsm 1.0.28 操作PDF文件的批处理命令行工具 216576Bytes 
+md5 2.0 生成文件的md5 49152Bytes 
+md5sum 5.97 md5生成与校验 30720Bytes 
+mimikatz.rar 2.0 轻量级调试器 98272Bytes 编程工具
+mimikatz64.rar 2.0 轻量级调试器(64位) 113919Bytes 编程工具
+mkdir 3.16 建立目录 32768Bytes 目录操作
+mkfifo N/A 使用指定的文件名创建FIFO(命名管道) 14336Bytes 
+mknod 3.16 建立一个目录项和一个特殊文件的对应索引节点 21504Bytes 目录操作
+mksdcard N/A 创建一个空的FAT32映像用于安卓模拟器 9216Bytes 
+MoveEx 1.01 在系统下次启动时移动文件 69632Bytes 文件操作
+movefile 1.01 安排在系统下一次启动时执行移动和删除命令 130160Bytes 目录操作 文件操作
+mpg123 1.13.1 MPEG1.0/2.0/2.5音频播放器 371107Bytes 多媒体工具
+mplayer_core 0.0.9.0 mplayer的命令行内核 15383040Bytes 播放 音乐 视频 点播 直播 URL
+Msgbox 1.0 弹出Msgbox窗口 126976Bytes 
+MsgOut N/A 从边缘弹出对话框 145408Bytes 
+Msic 0.15.2 命令行播放音乐 137728Bytes 多媒体工具
+mtee 2.1 命令行标准流分配器 10752Bytes 
+mv 3.16 移动目录 69632Bytes 目录操作
+mvdir 3.16 移动,重命名目录 20480Bytes 目录操作
+nasm N/A 汇编编译器 603648Bytes 编译器
+nbc N/A 文件加密 27648Bytes 
+nc N/A 瑞士军刀 31744Bytes 系统辅助
+nconvert 6.56 命令行图片处理工具 2226688Bytes 图片处理
+Netdom 1.8 修改工作组 81680Bytes 
+nircmd 2.75 系统综合类工具 44032Bytes 光驱 音量 换行 剪贴板  静音 快捷方式 监视器 显示器  屏幕保护 连接 拨号 最小化 居中 置顶 服务 注册表 文件 回收站 截图 分辨率 刷新率
+nircmdc 2.75 系统综合类工具,纯命令行版 43520Bytes 光驱 音量 换行 剪贴板  静音 快捷方式 监视器 显示器  屏幕保护 连接 拨号 最小化 居中 置顶 服务 注册表 文件 回收站 截图 分辨率 刷新率
+nl 2.1 为输出列加上编号 44544Bytes 
+nohup.rar 5.3.0 忽略挂断信号持续运行 54397Bytes 
+ntfsinfo 1.01 查看有关NTFS卷的详细信息 122680Bytes 主文件表MFT 元数据
+ntsd N/A 非常强大的进程调试工具，此版本可用于win7 31744Bytes 进程
+od 5.97 以指定格式显示文件 30208Bytes 
+ohl.rar 1.0 高亮显示正则搜索的匹配结果 60235Bytes 
+onigsed 4.15 支持Oniguruma(ver.2.5.0)和Perl5正则表达式的sed 278528Bytes 字符串替换 正则表达式 文本处理 
+opencc.rar 0.3.0 简繁字体转换工具 5070590Bytes 
+p2j N/A 提取PDF中的图片 45084Bytes 图片处理
+password 1.01 等待用户输入密码 5120Bytes 星号 * 密码 MD5 加密 
+paste 5.97 逐行合并文件 15872Bytes 
+patch 2.5 对文件应用更改 59904Bytes 
+pathchk 1.9.4 判断无效或未移植的文件名 10752Bytes 
+pathman N/A 增加路径到系统的path变量 6656Bytes 
+PauseWithTimeout N/A 等待N秒 43008Bytes 延时
+pclip 1.0 把剪贴板的文字写入标准输出 8192Bytes 
+pdfgrep 1.3.0 像grep一样搜索pdf 1552398Bytes 匹配 零宽断言 正则表达式 文本处理 搜索 字符串
+PdfSelect.rar 1.1 PDF分割工具 1593680Bytes 
+PDFtk.rar 2.02 PDF分割合并加密等操作 2503433Bytes 
+PDFtoJPG 1.2.2.1 PDF转JPG 1503232Bytes 格式转换
+pdftotext 3.03 PDF转文本 834696Bytes 格式转换
+PECMD 3.6.1001.313 PE下的命令解释工具 159744Bytes Shell 外壳
+pedump N/A 分析pe文件的信息 91680Bytes PE 文件头
+PeInfo 1.0 过滤文件的PE信息 72560Bytes PE 过滤 筛选 PE 文件头
+pendmoves 1.2 枚举系统下一次启动时所要执行的重命名和删除命令 130648Bytes 
+perl-full.rar 5.18.2 perl脚本宿主(完全版) 23165954Bytes 宿主
+perl-mini.rar 5.18.2 perl脚本宿主(精简版) 783280Bytes 宿主
+php-full.rar 5.5.11 php脚本宿主(完全版) 13842373Bytes 宿主
+php-mini.rar 5.5.11 php脚本宿主(精简版) 2716871Bytes 宿主
+pinky.rar 5.3.0 显示用户信息 62263Bytes 
+pipelist 1.01 显示系统上的命名管道 150328Bytes 最大实例数 活动实例数
+plink 0.63 命令行实现SSH,Telnet登录(Putty命令行版) 311296Bytes 
+png2ico N/A png转ico 143360Bytes 图片处理 格式转换
+PopUp 2.0 弹出一个对话框,支持管道 77824Bytes 按钮
+PortQry 2.0 TCP-IP连接测试实用工具 143360Bytes 连接 测试 网络
+PowerShell 2.0 准绿色精简版powershell2.0 12058624Bytes 解释器
+PPids 1.2 显示父进程或子进程的PID 53248Bytes 进程
+pr 2.1 快速的将一连串文本编排成合适打印的格式 31232Bytes 
+precomf 0.4.3 预压缩,让正式压缩文件变小(舒适版) 1078272Bytes 压缩解压 高压
+precomp 0.4.3 预压缩,让正式压缩文件变小 1038848Bytes 压缩解压 高压
+printenv 1.9.4 显示环境变量的值 7680Bytes 
+printf 0.11 写格式化输出 15360Bytes Unicode
+procdump 7.1 监控应用程序的CPU异常动向并转储 543928Bytes 脱壳
+proceed 1.00 等待条件匹配，集合了CHOICE,PAUSE,TIMEOUT,WAITFOR和文件监控等功能 14848Bytes 
+PrtSc N/A 截屏工具,直接运行,截图保存于剪贴板 1536Bytes 截图
+psexec 2.11 在远程系统上执行进程 396480Bytes 
+psfile 1.02 显示远程打开的文件 105264Bytes 
+psgetsid 1.44 显示远程计算机或用户的SID 333176Bytes 
+psinfo 1.77 远程显示系统有关信息 390520Bytes 
+pskill 1.15 远程结束进程 468592Bytes 进程操作
+pslist 1.3 远程显示详细的进程信息 232232Bytes 进程操作
+psloggedon 1.34 显示目前远程机器登陆者 183160Bytes 
+psloglist 2.71 查看远程系统事件记录 178040Bytes 
+pspasswd 1.23 远程更改用户密码 171608Bytes 
+psping 2.01 测试任何两机之间的延迟与频宽 227520Bytes 网络测试
+psservice 2.24 远程服务管理程序 169848Bytes 
+psshutdown 2.52 远程关机命令 207664Bytes 
+pssuspend 1.06 远程挂起进程 187184Bytes 
+ptx 2.1 文本处理工具 53760Bytes 文本处理
+pv 3.11.1.1 进程管理 61440Bytes 进程操作
+pvw32con 1.14 查看图片尺寸,转换图片 228864Bytes 图片处理 格式转换 GIF JPG PBM PGM PNM PPM IFF ILBM
+pwd N/A 显示工作目录的路径名称 2560Bytes 
+python-full.rar 3.3.1 python脚本宿主(完全版) 15755599Bytes 解释器 编程工具
+python-mini.rar 3.3.1 python脚本宿主(精简版) 942991Bytes 解释器 编程工具
+qboxrsctl 2.7.20140630 根据七牛云存储API实现的一个简易命令行辅助工具，覆盖七牛云存储开发者网站包含的大部分甚至更高级的功能 7416408Bytes 
+qboxrsctl64 2.7.20140630 根据七牛云存储API实现的一个简易命令行辅助工具，覆盖七牛云存储开发者网站包含的大部分甚至更高级的功能(64位) 9037912Bytes 
+qrcode 3.3.1 二维码生成工具 242688Bytes 
+qrcodegui 3.4.2 二维码生成工具GUI版 124928Bytes 
+qrsboxcli 2.7.20140630 命令行界面上传工具，基于Windows系统，支持断点续上传，增量同步，自动监控 8547408Bytes 
+qrsboxcli64 2.7.20140630 命令行界面上传工具，基于Windows系统，支持断点续上传，增量同步，自动监控(64位) 10430544Bytes 
+qrsync 2.7.20140630 命令行辅助上传同步工具，支持断点续上传，增量同步上传 9230408Bytes 
+qrsync64 2.7.20140630 命令行辅助上传同步工具，支持断点续上传，增量同步上传(64位) 11257928Bytes 
+qwebtest 1.2 七牛云存储提供的一款检测工具 6989392Bytes 
+qwebtest64 1.2 七牛云存储提供的一款检测工具(64位) 8457296Bytes 
+Random 1.0 返回随机数 131072Bytes 
+rar 5.20 rar文件压缩/解压 497104Bytes 压缩解压 rar
+rdd 1.0.5.0426 转储受损的磁盘和文件 651264Bytes 
+ReadLine 1.0 读取控制台输入,可以预设字符串 53760Bytes 
+readlink.rar 5.3.0 输出链接的内容 58546Bytes 
+ReadNamedPipe 0.1 从命名管道获取输出 65536Bytes 
+ReadPSW N/A 查看Windows账户密码 188495Bytes 破解 登录 
+recode 3.6 文件编码格式转换 1083392Bytes 编码转换
+Recy 1.00 清空回收站工具 77824Bytes 
+refresh 1.1 刷新桌面 69632Bytes 
+RefreshTray 1.0 刷新托盘 333824Bytes 
+reg2inf N/A reg转inf 5120Bytes 格式转换 reg inf
+RegChgUser N/A 修改注册表HKCU的用户 54272Bytes 系统管理 注册表管理
+RegDelNull 1.10 扫描删除包含嵌入空字符的注册表项 162616Bytes 系统管理 注册表管理
+regfind 0.7 搜索注册表 44032Bytes 系统管理 注册表管理
+regjump 1.02 打开注册表并跳转到指定的项 97976Bytes 系统管理 注册表管理
+ren2 N/A 用正则表达式重命名文件 81920Bytes 正则表达式 重命名
+RenameUser 1.0 修改用户名 65536Bytes 
+ResetPassword amd64 重置账户密码 149504Bytes 系统管理
+ResetPassword i386 重置账户密码 122368Bytes 系统管理
+rm 1.5.1.1 删除文件,支持删除至回收站 18432Bytes 文件操作
+rm 3.16 删除目录及文件 65536Bytes 文件操作 目录操作
+rman 3.0.7 备份与恢复 137216Bytes 
+rmdir 3.16 删除空目录 28672Bytes 目录操作
+robocopy XP010 稳健的文件复制 79872Bytes 文件操作 目录操作
+ru 1.0 注册表的使用报告 150720Bytes 系统管理 注册表管理
+runassrv 1.1.1.628 将所有程序注册为系统服务 117760Bytes 
+RunProcess 0.523 运行程序，可以设定许多细节 110592Bytes 
+rxregsvr N/A 有退出码的regsvr32 40960Bytes 
+SavSc N/A 截屏工具,可以指定截屏位置 3584Bytes 截图 区域
+scacl 1.1 查看或编辑服务和驱动的对象 58368Bytes 远程 服务 驱动
+scanreg 1.05 搜索注册表，彩显结果 60928Bytes 注册表 搜索
+scongui N/A 把exe转换为命令行或窗口模式 40960Bytes CLI GUI PE
+scrdec 1.8 网页脚本解密工具 36127Bytes 解密
+screnc N/A 网页脚本加密工具 65136Bytes 加密
+scrnres 1.0 输出屏幕尺寸 53248Bytes 
+sdelete 1.61 安全地删除文件 155736Bytes 文件操作
+sdiff 2.7 比较文件并合并 19968Bytes 
+sed 4.0.7 流文本处理工具 94720Bytes 字符串替换 正则表达式 文本处理
+sed 4.2.2 流文本处理工具 76302Bytes 字符串替换 正则表达式 文本处理
+Sendkeys 1.0 发送按键 131072Bytes 
+SendMsg 2.1 发送消息和列举窗口 60416Bytes 
+seq 1.13 按条件输出数列 18432Bytes 
+SetACL 2.0.3.0 权限控制 303616Bytes 权限 文件
+setenv 1.0 设置外部程序的环境变量 10240Bytes 
+SetRes 2.1 设置屏幕属性 49152Bytes 分辨率 刷新率
+setx N/A 命令行模式下永久设置系统环境变量 24576Bytes 
+sfk 1.7.2 功能繁多的综合工具 1490944Bytes 文件 筛选 查找 转换 ftp 下载
+sh.rar 3.1.17 bash命令行外壳 604363Bytes 解释器 Shell
+sha1sum 2.1 文件校验,与md5sum类似 30720Bytes 
+shar 4.1 建立外壳归档文件 35328Bytes 
+ShellEsc 2.7 将文字中的特殊符号转义后输出 38312Bytes 特殊符号
+ShortCut 1.11 创建快捷方式 57344Bytes 
+ShowConsole 0.52 显示或隐藏控制台窗口 73728Bytes 
+shred.rar 5.3.0 反复写入文件，防止恢复 70965Bytes 
+shuf 1.5.1.1 随机排序 20480Bytes 文本处理 排序
+sigcheck 2.1 转储文件版本信息并检查系统映像是否已数字签名 356544Bytes MD5 SHA1 SHA365
+SL 1.0 统计文本中各类字符出现的次数 135168Bytes 文本处理
+sleep 5.2.3790 延时工具 5120Bytes 延时
+SleepX 2.7 延时工具 48544Bytes 延时
+sleepy 0.2.4a 暂停指定时间(毫秒,秒,分钟,小时,天,星期,本地/UTC时间)后退出或者运行程序 5120Bytes 
+sort 2.1 文本排序 49152Bytes gnu 文本处理 排序
+sort 7.6 文本排序 234011Bytes gnu 文本处理 排序
+split 5.97 分割文件 17920Bytes 文本处理 分割
+sqlite3 3.7.11 sql数据库系统 231424Bytes 
+srvany N/A 读取注册表配置服务详情，常配合instsrv使用 8192Bytes 服务
+ssed 2.59 super_sed,支持Perl正则 82944Bytes 文本处理 字符串替换 正则表达式 
+stat.rar 5.3.0 显示文件或文件状态 64755Bytes 文件操作
+stc N/A 简单的命令行彩显 1888Bytes 控制台扩展 彩显
+stego N/A 信息隐藏工具 12800Bytes 
+Str 2.7 处理字符串的小工具，可以实现大小写之间的互换以及判断字符个数等几个小功能 44944Bytes 
+streams 1.56 显示NTFS备用数据流文件 87424Bytes 
+strings 2.51 在二进制映像中搜索ANSI和UNICODE字符串 90304Bytes 
+strip 2.20.51.20100613 去除PE文件中的多余信息,优化大小 757248Bytes 调试工具
+stty.rar 5.3.0 改变并打印终端行设置 63152Bytes 
+su 1.9.4 变更使用者 13312Bytes 
+sum 2.1 求和 20480Bytes 表达式计算
+SunTimes 1.1 打印日出,日落等时间 77824Bytes 
+SW 1.1 控制窗口 258093Bytes 窗口操作
+switchCG N/A 把exe转换为命令行或窗口模式 3072Bytes CLI GUI PE
+syba 0.2.3 SYBC强化版 2896Bytes 控制台扩展 彩显
+SYBC N/A 命令行彩显工具,高效率 32256Bytes 控制台扩展 彩显
+sync 2.2 将缓存数据刷新到磁盘 150328Bytes 
+sync 3.16 将缓存数据刷新到磁盘 19456Bytes 
+sysmetr 1.0 用索引号输出系统各项属性 61440Bytes 系统辅助
+Sysmon 1.01 监视系统活动 1061560Bytes 系统辅助 监视
+tac 2.1 倒序输出文本 41472Bytes 文本处理
+Tag 2.0.52 获取,修改音频文件属性 190976Bytes 多媒体工具
+tail 5.97 从指定点开始将文件写到标准输出 32768Bytes 文本处理
+tar 1.12 打包的命令,备份很实用 114688Bytes 压缩解压
+tcc.rar 0.9.26 最小的C编译工具 292570Bytes 编程工具 编译器 C语言 
+tcc64.rar 0.9.26 最小的C编译工具(64位) 327034Bytes 编程工具 编译器 C语言 
+tccle.rar 13.06.77 类似cmd但更强大的命令行外壳 4422481Bytes 编程工具 解释器
+tccle64.rar 13.06.77 类似cmd但更强大的命令行外壳(64位) 4545895Bytes 编程工具 解释器
+tcpvcon 2.52 查看指定进程的网络连接状态 132136Bytes 网络相关
+tee 1.4 将输出写入文件的同时写入标准输出或更多设备 9728Bytes 重定向
+TempName 2.7 创建临时文件并返回路径 45992Bytes 
+tesseract.rar 3.02 OCR图文识别 55312568Bytes 
+test 1.9.4 评估表达式及命令 17920Bytes 表达式计算
+TimeBack 1.0 文件时间控制 10752Bytes 文件操作
+timeit N/A 计算命令/程序耗时,可取多次取平均 13312Bytes 表达式计算
+timeout N/A 等候一段指定的时间(秒)或等按任意键 32256Bytes 
+timethis N/A 计算命令/程序耗时 8704Bytes 表达式计算
+Tmos 1.1 让命令行支持鼠标操作 40960Bytes 控制台扩展 鼠标
+Tmos 1.2 让命令行支持鼠标操作 172032Bytes 控制台扩展 鼠标
+tool N/A 进程的暂停,结束 9216Bytes 进程管理
+topng N/A 图片格式转换(bmp,gif,jpg,ico,png,ppm,tif...) 358912Bytes 图片处理 格式转换
+touch 3.16 新建或修改文件时间戳 35840Bytes 
+tr 5.97 sed简化版 26624Bytes 字符串替换 正则表达式 文本处理
+true.rar 5.3.0 退出码置为0 50878Bytes 
+tsched 1.05 暂停直到指定的时间（HH:MM） 39424Bytes 
+tsort 2.1 拓扑排序 15872Bytes 文本处理 排序 随机
+type 2.1 在PATH目录中搜索指定文件 3584Bytes 文件操作
+uesc N/A 转换十六进制Unicode(\uxxxx)为字符 303104Bytes 
+uname.rar 5.3.0 显示当前操作系统名称 56153Bytes 系统版本
+unexpand 2.1 将文件中的空格转换为制表符,写到标准输出 15360Bytes 
+uniq 5.97 删除重复行 19456Bytes 文本处理 重复
+Unlocker 1.9.2 解锁文件 95232Bytes 
+Unlocker64 1.9.2 解锁文件(64位) 124928Bytes 
+unrar 3.00 rar文件解压缩 161792Bytes 压缩解压 RAR
+unshar 4.1 外壳归档文件解压 11264Bytes 压缩解压 SHAR
+unzip 5.42 zip文件解压缩 102400Bytes zip 压缩解压 ZIP
+updtdb.rar 3.1.10.8220 生成文件列表数据库，可用locate进行快速的文件搜索 138750Bytes 
+updtdb64.rar 3.1.10.8220 生成文件列表数据库，可用locate进行快速的文件搜索(64位) 115477Bytes 
+uptime 1.5.1.1 打印系统正常运行时间 13824Bytes 系统管理
+upx 3.91 可执行文件压缩器 305152Bytes 压缩解压 exe
+urlencode 1.01 将文本编码为url字符串 286720Bytes 格式转换
+uudecode 4.1 将uuencode编码后的档案还原 10240Bytes 编码转换
+uuencode 4.1 将二进制文件转换为文本文件 9728Bytes 格式转换
+vncviewer 1.0.5 远程连接 1270848Bytes 网络相关
+Volumeid 2.01 设置FAT或NTFS驱动器的卷ID 154424Bytes 
+WaitDirChg 0.511 等待目录变化 65536Bytes 
+waituntil 1.12 等待直到触发条件 77824Bytes 
+watch 0.2.0 定时打印一个命令的执行结果 17920Bytes 对比 高亮 重复 检测
+wc 2.1 统计文本行数,字节数,字符数等 22016Bytes 文本处理 统计
+wce 1.3 凭据编辑工具（拉倒吧，就是个黑客工具） 208384Bytes 
+wfr 2.3.9 支持正则表达式的文本处理工具 216576Bytes 语言 匹配 替换 正则表达式
+wget 1.8.2 命令行下载工具 252416Bytes 网络下载 网页访问
+which 2.4 搜索文件 12288Bytes 文件操作 搜索 匹配
+Who 1.51 输出关于活动用户的信息 26112Bytes 系统辅助
+whoami 1.9.4 显示登录名 7680Bytes 用户名
+whois 1.12 查看Internet地址的所有者 109752Bytes 网络 地址
+win_iconv 0.0.6 编码转换工具（不依赖额外的dll文件） 28672Bytes 编码转换
+winclip 1.23 命令行操作剪贴板 52224Bytes 系统辅助 控制台扩展 剪贴板操作
+windows N/A 列举/控制窗口 14365Bytes 坐标 标题 移动 句柄 PID 模拟
+WINname 0.1 窗口操作及鼠标模拟等综合工具 13312Bytes 控制台扩展 鼠标 
+winput 1.3 提供多种输入框 31744Bytes 控制台扩展 星号 密码
+winscp 4.0.5.324 远程连接软件，主要功能就是在本地与远程计算机间安全的复制文件 1460224Bytes 
+WJ N/A 窗口抖动 29696Bytes 窗口操作
+wput.rar 0.6 ftp上传工具 401113Bytes 网络相关 ftp
+WriteMailslot N/A 发送消息 61440Bytes 
+WriteNamedPipe N/A 发送消息到命名管道 65536Bytes 
+Wselect 1.31 命令行窗口选择工具 30208Bytes 窗口操作
+wstart 1.3 启动程序，并调整窗口坐标及大小 114688Bytes 系统辅助
+wsu 1.0 使用指定账户创建进程 39424Bytes 系统辅助 进程管理
+x-ps 1.0 卸载进程中的dll 45056Bytes 系统辅助
+xargs 4.1 将参数列表转换成小块分段传递给其他命令 45124Bytes 控制台扩展
+xclip 20140101 增强的剪贴板命令行读写工具 822272Bytes 系统辅助 控制台扩展 剪贴板操作
+xcmd N/A X-CMD是一个命令行处理器，类似cmd.exe 38400Bytes 解释器
+xd 1.11 显示文件的十六进制码 39692Bytes 
+xdoc2txt N/A 转换doc/xls/pdf/html...为txt 660480Bytes 格式转换
+XueTrCmd.rar N/A XueTr命令行简易版本 289534Bytes 系统辅助
+xxd 1.10 查看文件的二进制,十六进制代码 11264Bytes 
+yes 1.9.4 重复输出给定字符串直到终止它 7168Bytes 
+youtube-dl 2015.03.03.1 下载youtube/vimeo/TED等网站的视频 5721901Bytes 下载工具
+zcat 1.2.4 用于压缩文件的cat 49152Bytes 压缩解压
+zip 2.3 zip文件压缩器 68096Bytes 压缩解压 ZIP
+zipalign N/A 用于优化安卓apk程序包 166912Bytes 编程工具
+zipweb 0.4.1 查看网络上的zip档案中的文件信息 46592Bytes 
+zzfind 1.6.6 在压缩包里搜索关键词 495616Bytes 文本处理 字符串搜索
+Rem 同名第三方请用"版本号/第三方名"加以区别,如"2.1b/Ckey",使用Find-Tool查找将会得到更精确的结果
+Rem 以上共计583个第三方,收集自网络,版权归原作者所有(人数过多,恕不在此一一列举),严禁用于商业用途！
+Rem 最后更新2015-10-5
