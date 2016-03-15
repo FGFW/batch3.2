@@ -1,71 +1,74 @@
-3.2
-  È¡ÏûÁËÓÀ¾Ã»·¾³±äÁ¿ÐÞ¸Ä,²»ÓÃ×¢ÏúÏµÍ³¾ÍÄÜÓÃ!
-  Ôö¼ÓÁËÇ¶ÈëÊ½°²×°(Ç¿ÁÒÍÆ¼ö)
-  Ôö¼ÓÁË"´óÐ¡"ÁÐ
-  ½â¾öÁËÆô¶¯Ê±³öÏÖÁ½¸öcmd.exeµÄÎÊÌâ
-  Ôö¼ÓÁËGet-Update Notice,¿ÉÒÔ²é¿´×÷Õß¹«¸æ
-  ÓÉÓÚÆô¶¯·½Ê½¸ü¸Ä,¾É°æÇëÐ¶ÔØºóÖØÐÂ°²×°Ò»´Î
+æ–°ç‰ˆæœ¬å‘½ä»¤ä¸Ž3.2æœ‰äº†ä¸€äº›å˜åŒ–ï¼Œä¸‹è½½ä¸Žä½¿ç”¨å¸®åŠ©è¯·å…³æ³¨ï¼š
+http://bbs.bathome.net/thread-32322-1-1.html
 
-Batch-CN 3.2 °ïÖú:
+3.2
+  å–æ¶ˆäº†æ°¸ä¹…çŽ¯å¢ƒå˜é‡ä¿®æ”¹,ä¸ç”¨æ³¨é”€ç³»ç»Ÿå°±èƒ½ç”¨!
+  å¢žåŠ äº†åµŒå…¥å¼å®‰è£…(å¼ºçƒˆæŽ¨è)
+  å¢žåŠ äº†"å¤§å°"åˆ—
+  è§£å†³äº†å¯åŠ¨æ—¶å‡ºçŽ°ä¸¤ä¸ªcmd.exeçš„é—®é¢˜
+  å¢žåŠ äº†Get-Update Notice,å¯ä»¥æŸ¥çœ‹ä½œè€…å…¬å‘Š
+  ç”±äºŽå¯åŠ¨æ–¹å¼æ›´æ”¹,æ—§ç‰ˆè¯·å¸è½½åŽé‡æ–°å®‰è£…ä¸€æ¬¡
+
+Batch-CN 3.2 å¸®åŠ©:
 
 Get-Tool [ToolName]
-ÃèÊö:¸ÃÃüÁî´Ó»¥ÁªÍøÉÏ»ñÈ¡ÏàÓ¦µÚÈý·½,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃÔÚÏßµÚÈý·½ÁÐ±í
-±ðÃû:GT
-Ê¾Àý:Get-Tool sed
+æè¿°:è¯¥å‘½ä»¤ä»Žäº’è”ç½‘ä¸ŠèŽ·å–ç›¸åº”ç¬¬ä¸‰æ–¹,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—åœ¨çº¿ç¬¬ä¸‰æ–¹åˆ—è¡¨
+åˆ«å:GT
+ç¤ºä¾‹:Get-Tool sed
 
 Get-Example [ExampleName]
-ÃèÊö:¸ÃÃüÁî´Ó»¥ÁªÍøÉÏ»ñÈ¡ÏàÓ¦µÚÈý·½µÄ½Ì³Ì»òÊ¾Àý´úÂëµÈ,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃÔÚÏßÊ¾Àý´úÂëµÈÁÐ±í
-±ðÃû:GE
-Ê¾Àý:Get-Example conset
+æè¿°:è¯¥å‘½ä»¤ä»Žäº’è”ç½‘ä¸ŠèŽ·å–ç›¸åº”ç¬¬ä¸‰æ–¹çš„æ•™ç¨‹æˆ–ç¤ºä¾‹ä»£ç ç­‰,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—åœ¨çº¿ç¤ºä¾‹ä»£ç ç­‰åˆ—è¡¨
+åˆ«å:GE
+ç¤ºä¾‹:Get-Example conset
 
 Get-Soft [SoftName]
-ÃèÊö:¸ÃÃüÁî´Ó»¥ÁªÍøÉÏ»ñÈ¡ÏàÓ¦Èí¼þ,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃÔÚÏßÈí¼þÁÐ±í
-±ðÃû:GS
-Ê¾Àý:Get-Soft iBAT
+æè¿°:è¯¥å‘½ä»¤ä»Žäº’è”ç½‘ä¸ŠèŽ·å–ç›¸åº”è½¯ä»¶,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—åœ¨çº¿è½¯ä»¶åˆ—è¡¨
+åˆ«å:GS
+ç¤ºä¾‹:Get-Soft iBAT
 
 Get-Update [Ver | Update |Notice]
-ÃèÊö:¸ÃÃüÁî¼ì²é¸üÐÂ,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃ¿ÉÑ¡¸üÐÂÁÐ±í
-±ðÃû:GU
-Ê¾Àý:Get-Update Ver
+æè¿°:è¯¥å‘½ä»¤æ£€æŸ¥æ›´æ–°,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—å¯é€‰æ›´æ–°åˆ—è¡¨
+åˆ«å:GU
+ç¤ºä¾‹:Get-Update Ver
 
 Del-Tool [TooName]
-ÃèÊö:¸ÃÃüÁî½«Ò»¸öµÚÈý·½´ÓÄ¿Â¼ÀïÉ¾³ý,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃ±¾µØµÚÈý·½ÁÐ±í
-±ðÃû:DT
-Ê¾Àý:DT sed
+æè¿°:è¯¥å‘½ä»¤å°†ä¸€ä¸ªç¬¬ä¸‰æ–¹ä»Žç›®å½•é‡Œåˆ é™¤,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—æœ¬åœ°ç¬¬ä¸‰æ–¹åˆ—è¡¨
+åˆ«å:DT
+ç¤ºä¾‹:DT sed
 
 Del-Soft [SoftName]
-ÃèÊö:¸ÃÃüÁî½«Ð¶ÔØÒ»¸öÍ¨¹ýBatch-CN°²×°µÄÈí¼þ,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃ±¾µØÈí¼þÁÐ±í
-±ðÃû:DS
-Ê¾Àý:DS iBAT
+æè¿°:è¯¥å‘½ä»¤å°†å¸è½½ä¸€ä¸ªé€šè¿‡Batch-CNå®‰è£…çš„è½¯ä»¶,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—æœ¬åœ°è½¯ä»¶åˆ—è¡¨
+åˆ«å:DS
+ç¤ºä¾‹:DS iBAT
 
 Del-Example [Example]
-ÃèÊö:¸ÃÃüÁîÉ¾³ýÒ»¸öÊ¾Àý´úÂëµÈ,,µ¥¶À¼üÈë¸ÃÃüÁî»ñµÃ±¾µØÊ¾Àý´úÂëµÈÁÐ±í
-±ðÃû:DE
-Ê¾Àý:DE conset
+æè¿°:è¯¥å‘½ä»¤åˆ é™¤ä¸€ä¸ªç¤ºä¾‹ä»£ç ç­‰,,å•ç‹¬é”®å…¥è¯¥å‘½ä»¤èŽ·å¾—æœ¬åœ°ç¤ºä¾‹ä»£ç ç­‰åˆ—è¡¨
+åˆ«å:DE
+ç¤ºä¾‹:DE conset
 
 Find-Tool [Keyword]
-ÃèÊö:¸ÃÃüÁîÔÚµÚÈý·½ÁÐ±íÖÐÑ°ÕÒ°üº¬¹Ø¼ü´ÊµÄÐÐ²¢´òÓ¡
-±ðÃû:FT
-Ê¾Àý:FT "×¢²á±í"
+æè¿°:è¯¥å‘½ä»¤åœ¨ç¬¬ä¸‰æ–¹åˆ—è¡¨ä¸­å¯»æ‰¾åŒ…å«å…³é”®è¯çš„è¡Œå¹¶æ‰“å°
+åˆ«å:FT
+ç¤ºä¾‹:FT "æ³¨å†Œè¡¨"
 
 Find-Soft [Keyword]
-ÃèÊö:¸ÃÃüÁîÔÚÈí¼þÁÐ±íÖÐÑ°ÕÒ°üº¬¹Ø¼ü´ÊµÄÐÐ²¢´òÓ¡
-±ðÃû:FS
-Ê¾Àý:FS "ËÑË÷"
+æè¿°:è¯¥å‘½ä»¤åœ¨è½¯ä»¶åˆ—è¡¨ä¸­å¯»æ‰¾åŒ…å«å…³é”®è¯çš„è¡Œå¹¶æ‰“å°
+åˆ«å:FS
+ç¤ºä¾‹:FS "æœç´¢"
 
 Find-Example [Keyword]
-ÃèÊö:¸ÃÃüÁîÔÚÊ¾Àý´úÂëÁÐ±íÖÐÑ°ÕÒ°üº¬¹Ø¼ü´ÊµÄÐÐ²¢´òÓ¡
-±ðÃû:FE
-Ê¾Àý:FE "conset"
+æè¿°:è¯¥å‘½ä»¤åœ¨ç¤ºä¾‹ä»£ç åˆ—è¡¨ä¸­å¯»æ‰¾åŒ…å«å…³é”®è¯çš„è¡Œå¹¶æ‰“å°
+åˆ«å:FE
+ç¤ºä¾‹:FE "conset"
 
 Version
-ÃèÊö:¸ÃÃüÁî²é¿´Batch-CNµ±Ç°°æ±¾
-±ðÃû:N/A
-Ê¾Àý:Version
+æè¿°:è¯¥å‘½ä»¤æŸ¥çœ‹Batch-CNå½“å‰ç‰ˆæœ¬
+åˆ«å:N/A
+ç¤ºä¾‹:Version
 
 
-Äã¿ÉÒÔÍ¨¹ý¼üÈëGets Dels FindsÀ´²é¿´Gets.bat Dels.bat Finds.batµÄÓÃ·¨,
-È»ºó¾Í¿ÉÒÔ×Ô¼ºÐÞ¸ÄKeyword_base.txtÀ´×Ô¶¨Òå¹¦ÄÜÁË
+ä½ å¯ä»¥é€šè¿‡é”®å…¥Gets Dels Findsæ¥æŸ¥çœ‹Gets.bat Dels.bat Finds.batçš„ç”¨æ³•,
+ç„¶åŽå°±å¯ä»¥è‡ªå·±ä¿®æ”¹Keyword_base.txtæ¥è‡ªå®šä¹‰åŠŸèƒ½äº†
 
-PS Ò»²¿·ÖµÚÈý·½µÄ°ïÖúÐèÒªÊ¹ÓÃ --help -help --h -h,»ò¼üÈë²»´ø²ÎÊýµÄÃüÁîÀ´²éÑ¯
-   Èç¹û°²×°²»Õý³£µÄ»°½¨ÒéÏÈÐ¶ÔØÔÙ°²×°
+PS ä¸€éƒ¨åˆ†ç¬¬ä¸‰æ–¹çš„å¸®åŠ©éœ€è¦ä½¿ç”¨ --help -help --h -h,æˆ–é”®å…¥ä¸å¸¦å‚æ•°çš„å‘½ä»¤æ¥æŸ¥è¯¢
+   å¦‚æžœå®‰è£…ä¸æ­£å¸¸çš„è¯å»ºè®®å…ˆå¸è½½å†å®‰è£…
